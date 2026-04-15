@@ -561,7 +561,15 @@ confNames.forEach(function(confName) {
   var conf = data.raw.conferences[confName];
   var section = document.createElement('div');
   section.className = 'conf-section';
-  section.innerHTML = '<div class="conf-title" style="color:'+conf.color+'">'+confName+'</div>';
+  var rawName = (conf.full_name || confName).replace(/^SPIE\s+/, '');
+  var displayName;
+  if(rawName.indexOf('+') > -1) {
+    displayName = rawName.replace(/\s*\+\s*/, ' +<br>');
+  } else {
+    var spaceIdx = rawName.indexOf(' ');
+    displayName = spaceIdx > -1 ? rawName.slice(0, spaceIdx) + '<br>' + rawName.slice(spaceIdx + 1) : rawName;
+  }
+  section.innerHTML = '<div class="conf-title" style="color:'+conf.color+'">'+displayName+'</div>';
 
   // Build year->venue lookup
   var venueByYear = {};
