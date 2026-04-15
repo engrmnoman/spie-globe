@@ -78,6 +78,8 @@
         { "year": 1972, "city": "Chicago, IL",          "country": "USA",    "lat": 41.8781, "lon": -87.6298 },
         { "year": 1978, "city": "San Diego, CA",        "country": "USA",    "lat": 32.7157, "lon": -117.1611 },
         { "year": 1979, "city": "San Diego, CA",        "country": "USA",    "lat": 32.7157, "lon": -117.1611 },
+        { "year": 1985, "city": "Newport Beach, CA",    "country": "USA",    "lat": 33.6189, "lon": -117.9298 },
+        { "year": 1986, "city": "Newport Beach, CA",    "country": "USA",    "lat": 33.6189, "lon": -117.9298 },
         { "year": 1987, "city": "Newport Beach, CA",    "country": "USA",    "lat": 33.6189, "lon": -117.9298 },
         { "year": 1988, "city": "Newport Beach, CA",    "country": "USA",    "lat": 33.6189, "lon": -117.9298 },
         { "year": 1989, "city": "Newport Beach, CA",    "country": "USA",    "lat": 33.6189, "lon": -117.9298 },
@@ -116,13 +118,46 @@
         { "year": 2023, "city": "San Diego, CA",        "country": "USA",    "lat": 32.7071, "lon": -117.1621 },
         { "year": 2024, "city": "San Diego, CA",        "country": "USA",    "lat": 32.7071, "lon": -117.1621 },
         { "year": 2025, "city": "San Diego, CA",        "country": "USA",    "lat": 32.7071, "lon": -117.1621 },
-        { "year": 2026, "city": "Vancouver, BC",        "country": "Canada", "lat": 49.2888, "lon": -123.1119 }
+        { "year": 2026, "city": "Vancouver, BC",        "country": "Canada", "lat": 49.2888, "lon": -123.1119 },
+        { "year": 2027, "city": "Vancouver, BC",        "country": "Canada", "lat": 49.2888, "lon": -123.1119 }
       ]
     },
     "DefenseCommercialSensing": {
       "full_name": "SPIE Defense + Commercial Sensing",
       "color": "#ffb74d",
       "venues": [
+        { "year": 1976, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1977, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1978, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1979, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1980, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1981, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1982, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1983, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1984, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1985, "city": "Reston, VA",            "country": "USA", "lat": 38.9586, "lon": -77.3570 },
+        { "year": 1986, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1987, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1988, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1989, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1990, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1991, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1992, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1993, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1994, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1995, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1996, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1997, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1998, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 1999, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2000, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2001, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2002, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2003, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2004, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2005, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2006, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
+        { "year": 2007, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
         { "year": 2008, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
         { "year": 2009, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
         { "year": 2010, "city": "Orlando, FL",           "country": "USA", "lat": 28.4248, "lon": -81.4713 },
@@ -139,7 +174,7 @@
         { "year": 2023, "city": "Orlando, FL",           "country": "USA", "lat": 28.3555, "lon": -81.5023 },
         { "year": 2024, "city": "National Harbor, MD",   "country": "USA", "lat": 38.7834, "lon": -77.0135 },
         { "year": 2025, "city": "Orlando, FL",           "country": "USA", "lat": 28.3555, "lon": -81.5023 },
-        { "year": 2026, "city": "Orlando, FL",           "country": "USA", "lat": 28.3555, "lon": -81.5023 }
+        { "year": 2026, "city": "National Harbor, MD",   "country": "USA", "lat": 38.7834, "lon": -77.0135 }
       ]
     }
   }
